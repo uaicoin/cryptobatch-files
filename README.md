@@ -1,2 +1,2 @@
-# cryptobatch-files
-Different .bat (batch) files taht could be used for various cryptocurrency projects.
+# Crypto Batch files
+Different .bat (batch) files that could be used for various cryptocurrency projects, especially crptonote coins
