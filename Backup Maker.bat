@@ -33,7 +33,7 @@ set TEXT=%%a
 )
 
 if %PASSWORD1%==%TEXT% goto correct
-echo you are wrong!!!
+echo You are wrong!
 pause
 goto start
 
